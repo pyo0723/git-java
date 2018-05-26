@@ -31,5 +31,7 @@ public class Hello {
 		System.out.println("Hello D6");
 		System.out.println("Hello D7");
 		
+		System.out.println("Hello R1");
+		
 	}
 }
