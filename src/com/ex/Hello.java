@@ -23,5 +23,16 @@ public class Hello {
 		System.out.println("Hello C11");
 		System.out.println("Hello H1");
 		
+		System.out.println("Hello D1");
+		System.out.println("Hello D2");
+		System.out.println("Hello D3");
+		System.out.println("Hello D4");
+		System.out.println("Hello D5");
+		System.out.println("Hello D6");
+		
+		System.out.println("Hello R1");
+		System.out.println("Hello R2");
+		System.out.println("Hello R3");
+		
 	}
 }
