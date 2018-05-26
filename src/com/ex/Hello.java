@@ -29,10 +29,22 @@ public class Hello {
 		System.out.println("Hello D4");
 		System.out.println("Hello D5");
 		System.out.println("Hello D6");
+		System.out.println("Hello D7");
+		System.out.println("Hello D8");
+		System.out.println("Hello D9");
+		System.out.println("Hello D10");
+		System.out.println("Hello D11");
 		
 		System.out.println("Hello R1");
 		System.out.println("Hello R2");
 		System.out.println("Hello R3");
+		
+		System.out.println("Hello F1");
+		System.out.println("Hello F2");
+		System.out.println("Hello F3");
+
+		System.out.println("Hello F4");
+		System.out.println("Hello D5");
 		
 	}
 }
