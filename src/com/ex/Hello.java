@@ -34,5 +34,9 @@ public class Hello {
 		
 		System.out.println("Hello R1");
 		
+		System.out.println("Hello F1");
+		System.out.println("Hello F2");
+		System.out.println("Hello F3");
+
 	}
 }
