@@ -32,6 +32,7 @@ public class Hello {
 		System.out.println("Hello D7");
 		System.out.println("Hello D8");
 		System.out.println("Hello D9");
+		System.out.println("Hello D10");
 		
 		System.out.println("Hello R1");
 		
